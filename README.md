@@ -1,3 +1,3 @@
-# confluence-writer
+# markdown-writer
 
-Serialise abstract document to markdown
+Serialise [abstract document](https://github.com/keis/abstract-document-builder) to markdown
